@@ -1,0 +1,30 @@
+<xml version="1.0">
+	<location>
+		<name>Diro</name>
+		<azimuth>192.0</azimuth>
+		<pitch>-81.0</pitch>
+		<roll>-2.0</roll>
+		<latitude>6.8414</latitude>
+		<longitude>79.8944</longitude>
+		<altitude>0.0</altitude>
+	</location>
+	<location>
+	    <name>Yohan</name>
+	    <azimuth>258.0</azimuth>
+	    <pitch>-88.0</pitch>
+	    <roll>-2.0</roll>
+		<latitude>6.8414</latitude>
+		<longitude>79.8844</longitude>
+		<altitude>0.0</altitude>
+	</location>
+	<location>
+	    <name>Gayan</name>
+	    <azimuth>151.0</azimuth>
+	    <pitch>-88.0</pitch>
+	    <roll>-2.0</roll>
+		<latitude>6.8414</latitude>
+		<longitude>79.8944</longitude>
+		<altitude>0.0</altitude>
+	</location>
+
+</xml>
